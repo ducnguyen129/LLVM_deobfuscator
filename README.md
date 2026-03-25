@@ -13,17 +13,9 @@ opt-20 --version
 echo 'export PATH=/usr/lib/llvm-20/bin:$PATH' >> ~/.bashrc
 source ~/.bashrc
 sudo apt install cmake ninja-build
-``` 
-2. Commit contribute
-
-```bash
-git add .
-git commit -m "update new feature"
-git pull --rebase
-git push
 ```
 
-3. Build
+2. Build
 
 ```bash
 git clone https://github.com/ducnguyen129/LLVM_deobfuscator.git
@@ -45,4 +37,12 @@ LLVM_obfuscator/
       ├── main   ← file chạy
       ├── CMakeFiles/
       └── ...
+```
+3. Commit contribute
+
+```bash
+git add .
+git commit -m "update new feature"
+git pull --rebase
+git push
 ```
