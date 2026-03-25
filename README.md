@@ -37,6 +37,7 @@ cmake -DLLVM_DIR=/usr/lib/llvm-20/lib/cmake/llvm ..
 make
 ```
 Tree
+```
 LLVM_obfuscator/
  ├── main.cpp
  ├── CMakeLists.txt
@@ -44,3 +45,4 @@ LLVM_obfuscator/
       ├── main   ← file chạy
       ├── CMakeFiles/
       └── ...
+```
