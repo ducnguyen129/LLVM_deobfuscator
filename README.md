@@ -1,5 +1,10 @@
 # An deobfuscator pass for deobfuscate researching
 
+## Introduction
+
+* This is my first big project about reverse engineering for my researching project
+* Maybe too soon for me to do this because i'm just study reverse engineering for 6 month :(( but i will try it
+
 ## Build
 
 1. Install LLVM
